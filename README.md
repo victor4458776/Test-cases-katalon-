@@ -15,6 +15,3 @@ F.click-functions Q
 
 H. sql-map, nikto, curl,rubyfu, metasploit,hashcat(interesting-part)
 
-I. DOM-javascript functionality Q
-
-7.Hacking-tools-Dns,security,python requests,Q
