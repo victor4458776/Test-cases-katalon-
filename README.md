@@ -1,7 +1,7 @@
 # Test-cases-katalon-
 Test-cases examples(Jira)
 
-Jira(browser-web-analysis-automation)
+(browser-web-analysis-automation)
 
 A.xpath-checker and selectors(yes) Q
 
