@@ -1,0 +1,77 @@
+
+Open website
+Click on "permanentAddress"
+Reload
+Scroll down
+Scroll up
+Scroll down
+Scroll up
+Click on "permanentAddress"
+Right click on "permanentAddress"
+Click on "headerElement"
+Scroll down
+Click on "Forms"
+Scroll up
+
+
+Open website
+Scroll down
+Click on "Elements"
+Click on "Text Box"
+Scroll up
+Click on "Current Address"
+Scroll down
+Click on "permanentAddress"
+Click on "Submit"
+Click on "Full NameEmailCurrent AddressP"
+Click on "permanentAddress"
+Scroll up
+
+
+
+https://demoqa.com/forms
+
+xpath:
+
+//textarea[@id='currentAddress']
+//textarea[@id='permanentAddress']
+
+//button[@id='submit']
+//button[@id='submit']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
